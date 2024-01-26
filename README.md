@@ -4,8 +4,11 @@
 
 - [Deploying Splunk Within Network](https://github.com/KS9O/Creating-SIEM-Connecting-Network-and-Log-Queries/)
 - [Securing Network](https://github.com/KS9O/Securing-My-Network-Project-Lab/)
-- [Creating A AnyDesk Trojan]
+- [Launching a Sniper Attack](https://github.com/KS9O/Burp-Suite-Intercept-and-Access/)
+- [Creating An AnyDesk Trojan]
 - [Data Leak Investigation]
+- [Penetration Testing Report](https://github.com/KS9O/PT-Report-For-XSS/blob/main/PT%20Report%20for%20XSS.pdf)
+- [Network Access Control](https://github.com/KS9O/2N-Commander-Install-Configuration-on-the-Field/blob/main/README.md)
 - [Python Lab]
   
 <h2> 📃 Certificates</h2>  
