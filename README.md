@@ -1,13 +1,18 @@
 <h1>Hi, I'm Kyle! <br/><a href="https://github.com/KS9O">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/Kyle-Sopt/">Network Engineer</a>, <a href="https://tryhackme.com/p/KS90">Entrepreneur</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- [link](
+
+- [Deploying Splunk Within Network](https://github.com/KS9O/Creating-SIEM-Connecting-Network-and-Log-Queries/)
+- [Securing Network](https://github.com/KS9O/Securing-My-Network-Project-Lab/)
+- [Creating A AnyDesk Trojan]
+- [Data Leak Investigation]
+- [Python Lab]
   
 <h2> 📃 Certificates</h2>  
 
-<h2>📺 Popular YouTube Videos</h2>
-
-
+- [Cyber Defense Professional]
+- [Pre-Security](https://github.com/KS9O/KS9O/assets/132106064/2ba8a847-dc32-4d09-b069-fa66fc5917fd)
+- 
 
 <h2> 🤳 Connect with me:</h2>
 
