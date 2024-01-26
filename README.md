@@ -13,7 +13,7 @@
   
 <h2> 📃 Certificates</h2>  
 
-- [Cyber Defense Professional](https://github.com/KS9O/)
+- [Cyber Defense Professional]([https://github.com/KS9O/](https://github.com/KS9O/Python-File-Integrity/blob/main/README.md))
 - [Pre-Security](https://github.com/KS9O/KS9O/assets/132106064/2ba8a847-dc32-4d09-b069-fa66fc5917fd)
 
 <h2> 🤝🏼 Connect with me:</h2>
