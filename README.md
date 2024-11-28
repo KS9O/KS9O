@@ -3,6 +3,7 @@
 <h2>💻 Cyber Security Projects:</h2>
 
 - [Deploying Splunk Within Network](https://github.com/KS9O/Creating-SIEM-Connecting-Network-and-Log-Queries/)
+- [Deploying & Configuring AlienVault Sensor w/ AWS](https://github.com/KS9O/Python-File-Integrity/blob/main/README.md)
 - [Securing Network](https://github.com/KS9O/Securing-My-Network-Project-Lab/)
 - [Launching a Sniper Attack](https://github.com/KS9O/Burp-Suite-Intercept-and-Access/)
 - [AnyDesk Trojan](https://github.com/KS9O/AnyDesk-Trojan/blob/main/README.md)
