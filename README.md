@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://github.com/KS9O">Security Analyst</a> | <a href="https://www.linkedin.com/in/Kyle-Sopt/">Network Security Engineer</a> | <a href="https://tryhackme.com/p/KS90">Entrepreneur</a></h1>
+<h1>Hi, I'm Kyle! <br/><a href="https://github.com/KS9O">Security Analyst</a> | <a href="https://www.linkedin.com/in/Kyle-Sopt/">Network Security Engineer</a> | <a href="https://www.ekcheointl.com/">Entrepreneur</a></h1>
 
 <h2>💻 Cyber Security Projects:</h2>
 
