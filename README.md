@@ -16,7 +16,7 @@
 
 - [AlienVault Certified Security Engineer AVSE)](https://github.com/KS9O/AVSE-Certificate/blob/main/AlienVault%20(AVSE)%20Certificate.pdf)
 - [Cyber Defense Professional](https://github.com/KS9O/Cyber-Defense-Professional/blob/main/README.md)
-- [Security Blue Team Level 1](https://github.com/KS9O/KS9O/assets/132106064/2ba8a847-dc32-4d09-b069-fa66fc5917fd)
+- [Security Blue Team Level 1]([https://github.com/KS9O/KS9O/assets/132106064/2ba8a847-dc32-4d09-b069-fa66fc5917fd](https://github.com/KS9O/Certificates/blob/5cb95177adf4baed4a48ec20b3f97721d63e62c9/assets/Blue%20Team%20Level%201%20(BTL1)-Certification.pdf))
 - [Pre-Security](https://github.com/KS9O/KS9O/assets/132106064/2ba8a847-dc32-4d09-b069-fa66fc5917fd)
 
 <h2> 🤝🏼 Connect with me:</h2>
