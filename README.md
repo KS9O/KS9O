@@ -24,6 +24,9 @@
 
 [<img align="left" alt="KyleSopt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KyleSopt | TryHackMe" width="24px" src="https://github.com/KS9O/KS9O/assets/132106064/8e16dd3d-4d11-45d6-97c7-97b22d1a0960" />][tryhackme]
+<br>
+[<img align="left" alt="KyleSopt | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
+[<img align="left" alt="KyleSopt | TryHackMe" width="24px" src="https://tryhackme.com/img/logo/THMlogo-gray_scale.png" />][tryhackme]
 
 [Linkedin]: https://linkedin.com/in/Kyle-Sopt/
 [tryhackme]: https://tryhackme.com/p/KS90
