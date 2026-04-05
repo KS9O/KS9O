@@ -9,8 +9,7 @@
 - [Contract Network Engineer Experience](https://github.com/KS9O/Contract-Network-Engineer-Experience)
 - [Deploying & Configuring AlienVault AWS Sensor](https://github.com/KS9O/USM-Anywhere-Sensor-Activation)
 - [Securing Network](https://github.com/KS9O/Securing-My-Network-Project-Lab/)
-- [Launching a Sniper Attack](https://github.com/KS9O/Burp-Suite-Intercept-and-Access/)
-- [Data Leak Investigation](https://github.com/KS9O/Data-Leak-Investigation/blob/main/README.md)
+- [Exploitation w/ Burp Suite](https://github.com/KS9O/Burp-Suite-Intercept-and-Access/)
 - [Penetration Testing Report](https://github.com/KS9O/PT-Report-For-XSS/blob/main/PT%20Report%20for%20XSS.pdf)
 - [Network Access Control](https://github.com/KS9O/2N-Commander-Install-Configuration-on-the-Field/blob/main/README.md)
 
