@@ -2,16 +2,17 @@
 
 <h2>💻 Experience & Projects:</h2>
 
+- [Timezone UTC Converter Extension](https://chromewebstore.google.com/detail/timezone-%E2%86%92-utc-converter/ldiglbdlekhfnaahokmmhomhfnolngap?authuser=1&hl=en&pli=1)
+- [ACKurSYNs Personal Website](https://ackursyns.com)
 - [Deploying Splunk Within Network](https://github.com/KS9O/Creating-SIEM-Connecting-Network-and-Log-Queries/)
 - [Contract Network Engineer Experience](https://github.com/KS9O/Contract-Network-Engineer-Experience)
 - [Deploying & Configuring AlienVault AWS Sensor](https://github.com/KS9O/USM-Anywhere-Sensor-Activation)
 - [Securing Network](https://github.com/KS9O/Securing-My-Network-Project-Lab/)
 - [Launching a Sniper Attack](https://github.com/KS9O/Burp-Suite-Intercept-and-Access/)
-- [AnyDesk Trojan](https://github.com/KS9O/AnyDesk-Trojan/blob/main/README.md)
 - [Data Leak Investigation](https://github.com/KS9O/Data-Leak-Investigation/blob/main/README.md)
 - [Penetration Testing Report](https://github.com/KS9O/PT-Report-For-XSS/blob/main/PT%20Report%20for%20XSS.pdf)
 - [Network Access Control](https://github.com/KS9O/2N-Commander-Install-Configuration-on-the-Field/blob/main/README.md)
-- [Python File Automation](https://github.com/KS9O/Python-File-Integrity/blob/main/README.md)
+
   
 <h2> 📃 Certificates</h2>  
 
