@@ -2,7 +2,7 @@
 
 <h2>💻 Experience & Projects:</h2>
 
-- [Timezone UTC Converter Extension](https://chromewebstore.google.com/detail/timezone-%E2%86%92-utc-converter/ldiglbdlekhfnaahokmmhomhfnolngap?authuser=1&hl=en&pli=1)
+- [Timezone UTC Converter Web Extension](https://chromewebstore.google.com/detail/timezone-%E2%86%92-utc-converter/ldiglbdlekhfnaahokmmhomhfnolngap?authuser=1&hl=en&pli=1)
 - [ACKurSYNs Personal Website](https://ackursyns.com)
 - [Ransomware Analysis Report](https://github.com/KS9O/Ransomware-Analysis-Report)
 - [Deploying Splunk Within Network](https://github.com/KS9O/Creating-SIEM-Connecting-Network-and-Log-Queries/)
