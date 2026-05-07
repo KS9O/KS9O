@@ -2,6 +2,7 @@
 
 <h2>💻 Experience & Projects:</h2>
 
+- [The SOC AI Assistant](https://github.com/KS9O/The-SOC-AI-Assistant)
 - [Timezone UTC Converter Web Extension](https://chromewebstore.google.com/detail/timezone-%E2%86%92-utc-converter/ldiglbdlekhfnaahokmmhomhfnolngap?authuser=1&hl=en&pli=1)
 - [ACKurSYNs Personal Website](https://ackursyns.com)
 - [Ransomware Analysis Report](https://github.com/KS9O/Ransomware-Analysis-Report)
