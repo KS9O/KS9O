@@ -5,6 +5,7 @@
 - [The SOC AI Assistant](https://github.com/KS9O/The-SOC-AI-Assistant)
 - [Timezone UTC Converter Web Extension](https://chromewebstore.google.com/detail/timezone-%E2%86%92-utc-converter/ldiglbdlekhfnaahokmmhomhfnolngap?authuser=1&hl=en&pli=1)
 - [ACKurSYNs Personal Website](https://ackursyns.com)
+- [Self-Hosted AI Home Lab](https://github.com/KS9O/Self-Hosted-AI-Home-Lab)
 - [Ransomware Analysis Report](https://github.com/KS9O/Ransomware-Analysis-Report)
 - [Deploying Splunk Within Network](https://github.com/KS9O/Creating-SIEM-Connecting-Network-and-Log-Queries/)
 - [Contract Network Engineer Experience](https://github.com/KS9O/Contract-Network-Engineer-Experience)
